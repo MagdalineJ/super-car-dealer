@@ -1,5 +1,9 @@
 # super-car-dealer
 This is a simple e-commerce site of large car dealership, made with the help of React.js library.
+The site is published on **Netlify**, whhich follows the link below:
+
+"https://super-car-dealer.netlify.app/"
+
 Of course, car isn't something we buy evryday or in packs, but this site is giving an idea to whoever wants to start a business or wants to buy several cars for friends and family, is mostly welcome; and will have the offer of getting 20% off on the total price including car price and taxes combined. 
 The site is made with **react.js** library as been stated before, there is also use of **font awesome icons** . 
 I've used basic **HTML, CSS and JAVASCRIPT** knowledge to build the site.
