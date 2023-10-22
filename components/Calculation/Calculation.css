@@ -1,0 +1,36 @@
+.terms{
+    background-color: rgb(36, 118, 89);
+    border-color: rgb(254, 255, 255);
+    color:white;
+    border-radius:10px;
+    height:25px;
+}
+.terms:hover{
+    color:rgb(111, 31, 7)
+}
+.purchase-btn{
+    border-color:aliceblue;
+    border-radius:10px;
+    width:100px;
+    height: 30px;
+    text-align: center;
+    margin-top:10% ;
+    margin-left:30% ;
+    background-color: rgb(189, 89, 86);
+    color:white;
+}
+.purchase-btn:hover{
+    color:rgb(22, 100, 76);
+}
+.congratOpen{
+    border:1px dashed black;
+    padding:8px;
+    display:block;
+    
+}
+.congratsClose{
+    border:1px dashed black;
+    padding:8px;
+    display:none;
+    
+}

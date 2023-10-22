@@ -1,0 +1,26 @@
+.Details img{
+    width: 100px;
+    height:50px;
+    border-radius: 50%;
+    margin:5px;
+    padding:3px;
+}
+.Details{
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    width:300px;
+    height:70px;
+    background-color: rgb(34, 112, 86);
+    color:rgb(241, 230, 224);
+    margin: 10px;
+    border-radius:20px;
+}
+.cross{
+    width:20px;
+    height:20px;
+    border: 1px rgb(79, 21, 21) solid;
+    margin: 25px ;
+    background-color: azure;
+    color:red;
+    border-radius:30%;
+}
